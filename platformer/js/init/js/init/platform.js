@@ -33,6 +33,6 @@
         }
         opspark.collectable.create = create;
     };
+    createPlatform(100, 100);
+    createPlatform(500, 500);
 })(window);
-createPlatform(100, 100);
-createPlatform(500, 500);
